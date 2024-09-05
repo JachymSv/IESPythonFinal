@@ -6,7 +6,7 @@ This repository serves as a submission place for the [JEM207](https://is.cuni.cz
 
 Presumably a user interested in solving sudoku will mostly use `solve_sudoku()` that can both solve given puzzle or reveal only one of the missing cells. Of course, you can use it to reveal one of the filled in cells as well, though it is not of much use.
 
-We believe the notebook `generation.ipynb` in the `Sudoku puzzles` folder will guide you well throughout the project.
+We believe the notebook `generation.ipynb` in the `Sudoku puzzles` folder will guide you well throughout the project. You can also find a set of test cases used for `solve_sudoku()` function in the `test_solving_function.py` file.
 
 The project is created as follows:
 
