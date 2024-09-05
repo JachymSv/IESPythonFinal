@@ -2,6 +2,8 @@
 
 Author: Jachym Svejda
 
+Python version 3.11.5 is used in the project.
+
 This repository serves as a submission place for the [JEM207](https://is.cuni.cz/studium/predmety/index.php?do=predmet&kod=JEM207&skr=2023) final project. The project is centered around sudoku. It creates various sudoku problems and their solution. 
 
 Presumably a user interested in solving sudoku will mostly use `solve_sudoku()` that can both solve given puzzle or reveal only one of the missing cells. Of course, you can use it to reveal one of the filled in cells as well, though it is not of much use.
